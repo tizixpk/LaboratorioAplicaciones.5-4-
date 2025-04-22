@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practicas 2</title>
+</head>
+<body>
+    <h1>Formulario de Login</h1>
+    <form action="/ruta/a/tu/servidor" method="POST"> 
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required><br><br>
+        <label for="apellido">Apellido:</label>
+        <input type="text" id="apellido" name="apellido" required><br><br>
+        <label for="correo">Correo electrónico:</label>
+        <input type="email" id="correo" name="correo" required><br><br>
+        <label for="fecha_nacimiento">Fecha de nacimiento:</label>
+        <input type="date" id="fecha_nacimiento" name="fecha_nacimiento" required><br><br>
+        <label for="pass">Contraseña:</label>
+        <input type="password" id="pass" name="pass" required><br><br>
+        <label for="confirmar_pass">Confirmar contraseña:</label>
+        <input type="password" id="confirmar_pass" name="confirmar_pass" required><br><br>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
