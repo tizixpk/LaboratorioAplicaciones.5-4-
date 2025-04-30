@@ -8,3 +8,5 @@ Bienvenido al repositorio de mis trabajos en  HTML, CSS Y JS. Aca vas a encontra
 - [Prácticas HTML 2: Formulario](/Practicas.2)
 - [Prácticas HTML 3: Tablas](/Practicas.3)
 - [Practicas HTML 4: Enlaces](/Practicas.4)
+- [Practicas HTML 5: Vinculos](/Practicas.5)
+- [Practicas HTML 5: Trabajo Evaluador](/Practicas.6)
